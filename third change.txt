@@ -1,0 +1,7 @@
+1. we make a change - we create second.txt file
+
+2. we track the change - by using -  git add . --- command
+
+3. we commit the change -  by  using - git commit -m "message" ---- command
+
+4. we push our change - by using - git push origin  main      --- command
