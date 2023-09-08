@@ -2,10 +2,13 @@
 <html>
 <body>
 
-<h2>Craft class</h2>
+<h1>Craft class</h1>
 <p>Here's the link:</p>
 
 <a href="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=0CAIQw7AJahcKEwiQ67b-7pmBAxUAAAAAHQAAAAAQAg&url=https%3A%2F%2Fcraftknowledge.net%2F&psig=AOvVaw1bz7aYcw1EEmVUvFm81tRX&ust=1694223084327123&opi=89978449">Craft</a>
+<h2>HTML Image</h2>
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+
 
 </body>
 </html>
