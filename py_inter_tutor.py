@@ -23,4 +23,9 @@ fruits = ["apple", "banana", "cherry"]
 for x in adj:
   for y in fruits:
     print(x, y)
-    
+
+#16 commit - Function
+def my_function():
+  print("Hello from a function")
+
+my_function()
