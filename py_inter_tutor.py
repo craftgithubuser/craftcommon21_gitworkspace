@@ -7,3 +7,12 @@ elif a == b:
   print("a and b are equal")
 else:
   print("a is greater than b")
+
+# while else loop
+i = 1
+while i < 6:
+  print(i)
+  i += 1
+else:
+  print("i is no longer less than 6")
+
