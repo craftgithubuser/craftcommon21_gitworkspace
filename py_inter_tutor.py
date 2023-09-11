@@ -16,3 +16,11 @@ while i < 6:
 else:
   print("i is no longer less than 6")
 
+# 15 nested for loops
+adj = ["red", "big", "tasty"]
+fruits = ["apple", "banana", "cherry"]
+
+for x in adj:
+  for y in fruits:
+    print(x, y)
+    
