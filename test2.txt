@@ -1,3 +1,5 @@
 this is test file two.
 {  
     . }
+
+This is test file now working properly.
